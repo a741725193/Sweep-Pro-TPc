@@ -13,7 +13,7 @@ manifest:
     import: app/west.yml
   - name: zmk-vfx-sweep-pro-display
     remote: nxtkb
-    revision: main
+    revision: db47eee8a5ecddb182ad12cd3314c0096492077b
   - name: zmk-behavior-report
     remote: nxtkb
     revision: main
